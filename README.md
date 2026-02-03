@@ -233,13 +233,13 @@ plt.show()
 - **ii)** Read and Display an Image With Circle.
 <img width="403" height="500" alt="Screenshot 2026-02-03 103033" src="https://github.com/user-attachments/assets/fd6cff71-5569-470e-b360-b8d1ce96a17c" />
 
- -**iii)** Read and Display an Image With Rectangle.
+ - **iii)** Read and Display an Image With Rectangle.
  <img width="418" height="520" alt="Screenshot 2026-02-03 103549" src="https://github.com/user-attachments/assets/ba6c58e3-2cf4-4574-947d-a1e47d4d1c32" />
 
- -**iv)** Read and Display an Image  with Grayscale.
+ - **iv)** Read and Display an Image  with Grayscale.
   <img width="401" height="518" alt="Screenshot 2026-02-03 103950" src="https://github.com/user-attachments/assets/784d63ac-bae8-4e17-89a5-89fb98bb2951" />
 
-   -**v)** Read and Display an Image Fliped With Vertically.
+   - **v)** Read and Display an Image Fliped With Vertically.
    <img width="386" height="511" alt="image" src="https://github.com/user-attachments/assets/df11cac8-14e9-4825-946b-15c3b23b8280" />
 
 
